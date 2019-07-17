@@ -4,7 +4,7 @@ Description=UMI OS X like boot splash by tnga
 ModuleName=script
 
 [script]
-ImageDir=/lib/plymouth/themes/UMI-OSX
-ScriptFile=/lib/plymouth/themes/UMI-OSX/umi-osx.script
+ImageDir=/usr/share/plymouth/themes/umi-osx
+ScriptFile=/usr/share/plymouth/themes/umi-osx/umi-osx.script
 
 
