@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=UMI Plymouth
+Description=UMI OS X like boot splash by tnga
+ModuleName=script
+
+[script]
+ImageDir=/lib/plymouth/themes/UMI-OSX
+ScriptFile=/lib/plymouth/themes/UMI-OSX/umi-osx.script
+
+
