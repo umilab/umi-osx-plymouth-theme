@@ -1,8 +1,8 @@
-/*Author: Tindo Ngoufo Arsel (tngatransporteur@gmail.com)
+/*Author: Tindo N. Arsel (devtnga@gmail.com)
  *Licence: GNU GPL version 3
  *base on Paw OS X plymouth script
  *
- *© UMI - November 2014
+ *© UMI - November 2016
 */
 
 /* For startup we want a light theme with a throbber */
